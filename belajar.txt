@@ -1,1 +1,3 @@
 - membuat repository
+- membuat file di dalam git
+- git commit
